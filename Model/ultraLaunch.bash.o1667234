@@ -1,0 +1,819 @@
+Date: Monday 08 2020 01:56:29 PM
+Running annot\n
+[dynet] random seed: 1726820518
+[dynet] allocating memory: 512MB
+[dynet] memory allocation done.
+0
+Setting ant
+> Preprocessing
+> Training
+Starting to read /users/yfrempon/EnPy-old/conala-corpus/attack-train.tmspm4000.intent and /users/yfrempon/EnPy-old/conala-corpus/attack-train.tmspm4000.snippet
+Done reading /users/yfrempon/EnPy-old/conala-corpus/attack-train.tmspm4000.intent and /users/yfrempon/EnPy-old/conala-corpus/attack-train.tmspm4000.snippet. Packing into batches.
+Done packing batches.
+The dy.parameter(...) call is now DEPRECATED.
+        There is no longer need to explicitly add parameters to the computation graph.
+        Any used parameter will be added automatically.
+[annot] Epoch 1.0000: train_loss/word=3.422213 (words=968, words/sec=2876.30, time=0-00:00:00)
+> Checkpoint [annot]
+Starting to read /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent and /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.snippet
+Done reading /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent and /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.snippet. Packing into batches.
+Done packing batches.
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 1.0000 dev Loss: 3.371 (ref_len=556) (time=0-00:00:02)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:02
+  best dev score, writing out model
+[annot] Epoch 2.0000: train_loss/word=3.325778 (words=968, words/sec=2880.18, time=0-00:00:03)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 2.0000 dev Loss: 3.264 (ref_len=556) (time=0-00:00:04)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:01
+  best dev score, writing out model
+[annot] Epoch 3.0000: train_loss/word=3.249681 (words=968, words/sec=2776.30, time=0-00:00:05)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 3.0000 dev Loss: 3.123 (ref_len=556) (time=0-00:00:06)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 4.0000: train_loss/word=3.049721 (words=968, words/sec=2772.50, time=0-00:00:06)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 4.0000 dev Loss: 2.984 (ref_len=556) (time=0-00:00:07)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 5.0000: train_loss/word=2.961659 (words=968, words/sec=2777.49, time=0-00:00:07)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 5.0000 dev Loss: 2.849 (ref_len=556) (time=0-00:00:08)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 6.0000: train_loss/word=2.817636 (words=968, words/sec=2775.44, time=0-00:00:09)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 6.0000 dev Loss: 2.697 (ref_len=556) (time=0-00:00:09)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 7.0000: train_loss/word=2.665564 (words=968, words/sec=2778.17, time=0-00:00:10)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 7.0000 dev Loss: 2.555 (ref_len=556) (time=0-00:00:10)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 8.0000: train_loss/word=2.494934 (words=968, words/sec=2772.16, time=0-00:00:11)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 8.0000 dev Loss: 2.427 (ref_len=556) (time=0-00:00:12)
+[annot]              dev auxiliary BLEU4: 0.0, 0.111111/0.000000/0.000000/0.000000 (BP = 0.494750, ratio=0.59, hyp_len=108, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 9.0000: train_loss/word=2.357941 (words=968, words/sec=2772.44, time=0-00:00:12)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 9.0000 dev Loss: 2.284 (ref_len=556) (time=0-00:00:13)
+[annot]              dev auxiliary BLEU4: 0.0, 0.102564/0.000000/0.000000/0.000000 (BP = 0.256924, ratio=0.42, hyp_len=78, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 10.0000: train_loss/word=2.220077 (words=968, words/sec=2774.99, time=0-00:00:13)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 10.0000 dev Loss: 2.157 (ref_len=556) (time=0-00:00:14)
+[annot]              dev auxiliary BLEU4: 0.0, 0.113636/0.000000/0.000000/0.000000 (BP = 0.335911, ratio=0.48, hyp_len=88, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 11.0000: train_loss/word=2.096383 (words=968, words/sec=2743.33, time=0-00:00:15)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 11.0000 dev Loss: 2.035 (ref_len=556) (time=0-00:00:15)
+[annot]              dev auxiliary BLEU4: 0.0, 0.011236/0.000000/0.000000/0.000000 (BP = 0.343896, ratio=0.48, hyp_len=89, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 12.0000: train_loss/word=1.970646 (words=968, words/sec=2748.76, time=0-00:00:16)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 12.0000 dev Loss: 1.906 (ref_len=556) (time=0-00:00:16)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 13.0000: train_loss/word=1.890325 (words=968, words/sec=2802.85, time=0-00:00:17)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 13.0000 dev Loss: 1.784 (ref_len=556) (time=0-00:00:18)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 14.0000: train_loss/word=1.768506 (words=968, words/sec=2889.17, time=0-00:00:18)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 14.0000 dev Loss: 1.677 (ref_len=556) (time=0-00:00:19)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 15.0000: train_loss/word=1.634189 (words=968, words/sec=2885.37, time=0-00:00:20)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 15.0000 dev Loss: 1.584 (ref_len=556) (time=0-00:00:20)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 16.0000: train_loss/word=1.535976 (words=968, words/sec=2773.16, time=0-00:00:21)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 16.0000 dev Loss: 1.486 (ref_len=556) (time=0-00:00:21)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 17.0000: train_loss/word=1.432383 (words=968, words/sec=2884.47, time=0-00:00:22)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 17.0000 dev Loss: 1.386 (ref_len=556) (time=0-00:00:22)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 17.8929: train_loss/word=1.379891 (words=847, words/sec=2909.74, time=0-00:00:23)
+[annot] Epoch 18.0000: train_loss/word=1.374803 (words=968, words/sec=2751.68, time=0-00:00:23)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 18.0000 dev Loss: 1.298 (ref_len=556) (time=0-00:00:24)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 18.1071: train_loss/word=1.297037 (words=122, words/sec=2794.94, time=0-00:00:24)
+[annot] Epoch 19.0000: train_loss/word=1.259941 (words=968, words/sec=2897.66, time=0-00:00:24)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 19.0000 dev Loss: 1.220 (ref_len=556) (time=0-00:00:25)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 19.1071: train_loss/word=1.225188 (words=122, words/sec=2795.73, time=0-00:00:25)
+[annot] Epoch 20.0000: train_loss/word=1.169936 (words=968, words/sec=2900.64, time=0-00:00:25)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 20.0000 dev Loss: 1.150 (ref_len=556) (time=0-00:00:26)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 20.8929: train_loss/word=1.122715 (words=846, words/sec=2906.19, time=0-00:00:27)
+[annot] Epoch 21.0000: train_loss/word=1.128386 (words=968, words/sec=2781.79, time=0-00:00:27)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 21.0000 dev Loss: 1.074 (ref_len=556) (time=0-00:00:27)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 21.8929: train_loss/word=1.044265 (words=842, words/sec=2892.21, time=0-00:00:28)
+[annot] Epoch 22.0000: train_loss/word=1.049313 (words=968, words/sec=2867.73, time=0-00:00:28)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 22.0000 dev Loss: 1.009 (ref_len=556) (time=0-00:00:28)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 22.1071: train_loss/word=1.041959 (words=122, words/sec=2802.40, time=0-00:00:29)
+[annot] Epoch 23.0000: train_loss/word=0.970724 (words=968, words/sec=2893.05, time=0-00:00:29)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 23.0000 dev Loss: 0.950 (ref_len=556) (time=0-00:00:30)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 23.1071: train_loss/word=0.990558 (words=122, words/sec=2803.36, time=0-00:00:30)
+[annot] Epoch 24.0000: train_loss/word=0.902181 (words=968, words/sec=2894.40, time=0-00:00:30)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 24.0000 dev Loss: 0.903 (ref_len=556) (time=0-00:00:31)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 24.8929: train_loss/word=0.864173 (words=847, words/sec=2909.94, time=0-00:00:31)
+[annot] Epoch 25.0000: train_loss/word=0.875188 (words=968, words/sec=2752.18, time=0-00:00:31)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 25.0000 dev Loss: 0.855 (ref_len=556) (time=0-00:00:32)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 25.8929: train_loss/word=0.822685 (words=842, words/sec=2892.02, time=0-00:00:33)
+[annot] Epoch 26.0000: train_loss/word=0.830960 (words=968, words/sec=2869.35, time=0-00:00:33)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 26.0000 dev Loss: 0.797 (ref_len=556) (time=0-00:00:33)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 26.8929: train_loss/word=0.763519 (words=842, words/sec=2892.60, time=0-00:00:34)
+[annot] Epoch 27.0000: train_loss/word=0.774882 (words=968, words/sec=2865.94, time=0-00:00:34)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 27.0000 dev Loss: 0.788 (ref_len=556) (time=0-00:00:34)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 27.1071: train_loss/word=0.837825 (words=122, words/sec=2804.08, time=0-00:00:35)
+[annot] Epoch 28.0000: train_loss/word=0.744926 (words=968, words/sec=2900.61, time=0-00:00:35)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 28.0000 dev Loss: 0.726 (ref_len=556) (time=0-00:00:36)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 28.1071: train_loss/word=0.782845 (words=126, words/sec=2896.13, time=0-00:00:36)
+[annot] Epoch 29.0000: train_loss/word=0.686540 (words=968, words/sec=2887.49, time=0-00:00:36)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 29.0000 dev Loss: 0.698 (ref_len=556) (time=0-00:00:37)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 29.1071: train_loss/word=0.749178 (words=121, words/sec=2777.52, time=0-00:00:37)
+[annot] Epoch 30.0000: train_loss/word=0.660289 (words=968, words/sec=2906.98, time=0-00:00:37)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 30.0000 dev Loss: 0.661 (ref_len=556) (time=0-00:00:38)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 30.1071: train_loss/word=0.723180 (words=122, words/sec=2804.26, time=0-00:00:38)
+[annot] Epoch 31.0000: train_loss/word=0.632660 (words=968, words/sec=2898.22, time=0-00:00:39)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 31.0000 dev Loss: 0.633 (ref_len=556) (time=0-00:00:39)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 31.1071: train_loss/word=0.680476 (words=122, words/sec=2800.17, time=0-00:00:39)
+[annot] Epoch 32.0000: train_loss/word=0.600032 (words=968, words/sec=2904.93, time=0-00:00:40)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 32.0000 dev Loss: 0.617 (ref_len=556) (time=0-00:00:40)
+[annot]              dev auxiliary BLEU4: 0.0, 0.007353/0.000000/0.000000/0.000000 (BP = 0.702619, ratio=0.74, hyp_len=136, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 32.1071: train_loss/word=0.674445 (words=121, words/sec=2778.80, time=0-00:00:41)
+[annot] Epoch 33.0000: train_loss/word=0.576988 (words=968, words/sec=2904.38, time=0-00:00:41)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 33.0000 dev Loss: 0.582 (ref_len=556) (time=0-00:00:42)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 33.1071: train_loss/word=0.634439 (words=126, words/sec=2892.99, time=0-00:00:42)
+[annot] Epoch 34.0000: train_loss/word=0.545073 (words=968, words/sec=2890.81, time=0-00:00:42)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 34.0000 dev Loss: 0.560 (ref_len=556) (time=0-00:00:43)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 34.8929: train_loss/word=0.517222 (words=847, words/sec=2909.15, time=0-00:00:43)
+[annot] Epoch 35.0000: train_loss/word=0.526266 (words=968, words/sec=2755.66, time=0-00:00:43)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 35.0000 dev Loss: 0.539 (ref_len=556) (time=0-00:00:44)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 35.1071: train_loss/word=0.576505 (words=122, words/sec=2803.56, time=0-00:00:44)
+[annot] Epoch 36.0000: train_loss/word=0.488080 (words=968, words/sec=2897.44, time=0-00:00:45)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 36.0000 dev Loss: 0.510 (ref_len=556) (time=0-00:00:45)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 36.8929: train_loss/word=0.461191 (words=846, words/sec=2907.26, time=0-00:00:46)
+[annot] Epoch 37.0000: train_loss/word=0.470356 (words=968, words/sec=2779.09, time=0-00:00:46)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 37.0000 dev Loss: 0.485 (ref_len=556) (time=0-00:00:46)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 37.1071: train_loss/word=0.530673 (words=122, words/sec=2804.25, time=0-00:00:47)
+[annot] Epoch 38.0000: train_loss/word=0.446290 (words=968, words/sec=2903.03, time=0-00:00:47)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 38.0000 dev Loss: 0.456 (ref_len=556) (time=0-00:00:48)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 38.1071: train_loss/word=0.494909 (words=122, words/sec=2792.60, time=0-00:00:48)
+[annot] Epoch 39.0000: train_loss/word=0.414973 (words=968, words/sec=2899.53, time=0-00:00:48)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 39.0000 dev Loss: 0.440 (ref_len=556) (time=0-00:00:49)
+[annot]              dev auxiliary BLEU4: 0.0, 0.047244/0.000000/0.000000/0.000000 (BP = 0.638382, ratio=0.69, hyp_len=127, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 39.8929: train_loss/word=0.392285 (words=842, words/sec=2768.69, time=0-00:00:49)
+[annot] Epoch 40.0000: train_loss/word=0.402388 (words=968, words/sec=2799.58, time=0-00:00:49)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 40.0000 dev Loss: 0.441 (ref_len=556) (time=0-00:00:50)
+[annot]              dev auxiliary BLEU4: 0.0, 0.075188/0.000000/0.000000/0.000000 (BP = 0.681500, ratio=0.72, hyp_len=133, ref_len=184)
+             checkpoint took 0-00:00:00
+[annot] Epoch 40.8929: train_loss/word=0.405711 (words=846, words/sec=2890.49, time=0-00:00:50)
+[annot] Epoch 41.0000: train_loss/word=0.411832 (words=968, words/sec=2680.09, time=0-00:00:50)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 41.0000 dev Loss: 0.417 (ref_len=556) (time=0-00:00:51)
+[annot]              dev auxiliary BLEU4: 0.0, 0.087591/0.000000/0.000000/0.000000 (BP = 0.709592, ratio=0.74, hyp_len=137, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 41.8929: train_loss/word=0.381110 (words=846, words/sec=2906.01, time=0-00:00:51)
+[annot] Epoch 42.0000: train_loss/word=0.386080 (words=968, words/sec=2780.70, time=0-00:00:52)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 42.0000 dev Loss: 0.387 (ref_len=556) (time=0-00:00:52)
+[annot]              dev auxiliary BLEU4: 0.0, 0.075758/0.000000/0.000000/0.000000 (BP = 0.674395, ratio=0.72, hyp_len=132, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 42.1071: train_loss/word=0.410813 (words=122, words/sec=2803.11, time=0-00:00:52)
+[annot] Epoch 43.0000: train_loss/word=0.344662 (words=968, words/sec=2900.85, time=0-00:00:53)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 43.0000 dev Loss: 0.368 (ref_len=556) (time=0-00:00:53)
+[annot]              dev auxiliary BLEU4: 0.0, 0.062016/0.000000/0.000000/0.000000 (BP = 0.652883, ratio=0.70, hyp_len=129, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 43.8929: train_loss/word=0.328853 (words=847, words/sec=2909.89, time=0-00:00:54)
+[annot] Epoch 44.0000: train_loss/word=0.334632 (words=968, words/sec=2750.05, time=0-00:00:54)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 44.0000 dev Loss: 0.363 (ref_len=556) (time=0-00:00:54)
+[annot]              dev auxiliary BLEU4: 0
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 44.1071: train_loss/word=0.382116 (words=126, words/sec=2894.73, time=0-00:00:55)
+[annot] Epoch 45.0000: train_loss/word=0.319527 (words=968, words/sec=2885.81, time=0-00:00:55)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 45.0000 dev Loss: 0.341 (ref_len=556) (time=0-00:00:56)
+[annot]              dev auxiliary BLEU4: 0.0, 0.016260/0.000000/0.000000/0.000000 (BP = 0.609001, ratio=0.67, hyp_len=123, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 45.8929: train_loss/word=0.294485 (words=847, words/sec=2911.26, time=0-00:00:56)
+[annot] Epoch 46.0000: train_loss/word=0.302863 (words=968, words/sec=2756.65, time=0-00:00:56)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 46.0000 dev Loss: 0.345 (ref_len=556) (time=0-00:00:57)
+[annot]              dev auxiliary BLEU4: 0.0, 0.076336/0.000000/0.000000/0.000000 (BP = 0.667257, ratio=0.71, hyp_len=131, ref_len=184)
+             checkpoint took 0-00:00:00
+[annot] Epoch 46.8929: train_loss/word=0.303933 (words=846, words/sec=2909.62, time=0-00:00:57)
+[annot] Epoch 47.0000: train_loss/word=0.308035 (words=968, words/sec=2779.72, time=0-00:00:57)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 47.0000 dev Loss: 0.319 (ref_len=556) (time=0-00:00:58)
+[annot]              dev auxiliary BLEU4: 0.0, 0.088235/0.000000/0.000000/0.000000 (BP = 0.702619, ratio=0.74, hyp_len=136, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 47.1071: train_loss/word=0.330501 (words=122, words/sec=2795.13, time=0-00:00:58)
+[annot] Epoch 48.0000: train_loss/word=0.273880 (words=968, words/sec=2894.78, time=0-00:00:58)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 48.0000 dev Loss: 0.299 (ref_len=556) (time=0-00:00:59)
+[annot]              dev auxiliary BLEU4: 0.0, 0.088235/0.000000/0.000000/0.000000 (BP = 0.702619, ratio=0.74, hyp_len=136, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 48.8929: train_loss/word=0.253450 (words=846, words/sec=2907.58, time=0-00:01:00)
+[annot] Epoch 49.0000: train_loss/word=0.259735 (words=968, words/sec=2769.78, time=0-00:01:00)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 49.0000 dev Loss: 0.303 (ref_len=556) (time=0-00:01:00)
+[annot]              dev auxiliary BLEU4: 0.0, 0.054264/0.000000/0.000000/0.000000 (BP = 0.652883, ratio=0.70, hyp_len=129, ref_len=184)
+             checkpoint took 0-00:00:00
+[annot] Epoch 49.1071: train_loss/word=0.310449 (words=126, words/sec=2903.17, time=0-00:01:00)
+[annot] Epoch 50.0000: train_loss/word=0.279673 (words=968, words/sec=2885.52, time=0-00:01:01)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 50.0000 dev Loss: 0.299 (ref_len=556) (time=0-00:01:01)
+[annot]              dev auxiliary BLEU4: 0.0, 0.066667/0.000000/0.000000/0.000000 (BP = 0.695612, ratio=0.73, hyp_len=135, ref_len=184)
+             checkpoint took 0-00:00:00
+[annot] Epoch 50.1071: train_loss/word=0.287265 (words=121, words/sec=2785.05, time=0-00:01:01)
+[annot] Epoch 51.0000: train_loss/word=0.251204 (words=968, words/sec=2908.51, time=0-00:01:01)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 51.0000 dev Loss: 0.268 (ref_len=556) (time=0-00:01:02)
+[annot]              dev auxiliary BLEU4: 0.0, 0.087591/0.000000/0.000000/0.000000 (BP = 0.709592, ratio=0.74, hyp_len=137, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 51.1071: train_loss/word=0.269121 (words=122, words/sec=2801.12, time=0-00:01:02)
+[annot] Epoch 52.0000: train_loss/word=0.226901 (words=968, words/sec=2897.80, time=0-00:01:03)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 52.0000 dev Loss: 0.251 (ref_len=556) (time=0-00:01:03)
+[annot]              dev auxiliary BLEU4: 0.0, 0.094203/0.000000/0.000000/0.000000 (BP = 0.716531, ratio=0.75, hyp_len=138, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 52.1071: train_loss/word=0.257601 (words=122, words/sec=2803.19, time=0-00:01:04)
+[annot] Epoch 53.0000: train_loss/word=0.220732 (words=968, words/sec=2898.64, time=0-00:01:04)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 53.0000 dev Loss: 0.247 (ref_len=556) (time=0-00:01:04)
+[annot]              dev auxiliary BLEU4: 0.0, 0.094891/0.000000/0.000000/0.000000 (BP = 0.709592, ratio=0.74, hyp_len=137, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 53.8929: train_loss/word=0.209574 (words=846, words/sec=2907.36, time=0-00:01:05)
+[annot] Epoch 54.0000: train_loss/word=0.214174 (words=968, words/sec=2775.47, time=0-00:01:05)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 54.0000 dev Loss: 0.233 (ref_len=556) (time=0-00:01:06)
+[annot]              dev auxiliary BLEU4: 0.0, 0.088235/0.000000/0.000000/0.000000 (BP = 0.702619, ratio=0.74, hyp_len=136, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 54.1071: train_loss/word=0.230059 (words=122, words/sec=2791.32, time=0-00:01:06)
+[annot] Epoch 55.0000: train_loss/word=0.187966 (words=968, words/sec=2898.56, time=0-00:01:06)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 55.0000 dev Loss: 0.221 (ref_len=556) (time=0-00:01:07)
+[annot]              dev auxiliary BLEU4: 0.0, 0.094891/0.000000/0.000000/0.000000 (BP = 0.709592, ratio=0.74, hyp_len=137, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 55.1071: train_loss/word=0.228834 (words=126, words/sec=2895.14, time=0-00:01:07)
+[annot] Epoch 56.0000: train_loss/word=0.186240 (words=968, words/sec=2885.02, time=0-00:01:07)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 56.0000 dev Loss: 0.212 (ref_len=556) (time=0-00:01:08)
+[annot]              dev auxiliary BLEU4: 0.0, 0.086957/0.000000/0.000000/0.000000 (BP = 0.716531, ratio=0.75, hyp_len=138, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 56.8929: train_loss/word=0.170379 (words=847, words/sec=2791.61, time=0-00:01:09)
+[annot] Epoch 57.0000: train_loss/word=0.174617 (words=968, words/sec=2691.92, time=0-00:01:09)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 57.0000 dev Loss: 0.222 (ref_len=556) (time=0-00:01:09)
+[annot]              dev auxiliary BLEU4: 0.0, 0.071942/0.000000/0.000000/0.000000 (BP = 0.723438, ratio=0.76, hyp_len=139, ref_len=184)
+             checkpoint took 0-00:00:00
+[annot] Epoch 57.1071: train_loss/word=0.196482 (words=126, words/sec=2881.39, time=0-00:01:09)
+[annot] Epoch 58.0000: train_loss/word=0.188151 (words=968, words/sec=2883.27, time=0-00:01:10)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 58.0000 dev Loss: 0.216 (ref_len=556) (time=0-00:01:10)
+[annot]              dev auxiliary BLEU4: 0.0, 0.080292/0.000000/0.000000/0.000000 (BP = 0.709592, ratio=0.74, hyp_len=137, ref_len=184)
+             checkpoint took 0-00:00:00
+[annot] Epoch 58.1071: train_loss/word=0.172172 (words=126, words/sec=2900.91, time=0-00:01:10)
+[annot] Epoch 59.0000: train_loss/word=0.164245 (words=968, words/sec=2887.17, time=0-00:01:10)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 59.0000 dev Loss: 0.192 (ref_len=556) (time=0-00:01:11)
+[annot]              dev auxiliary BLEU4: 0.0, 0.094891/0.000000/0.000000/0.000000 (BP = 0.709592, ratio=0.74, hyp_len=137, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+[annot] Epoch 59.8929: train_loss/word=0.155498 (words=846, words/sec=2907.23, time=0-00:01:12)
+[annot] Epoch 60.0000: train_loss/word=0.161050 (words=968, words/sec=2779.84, time=0-00:01:12)
+> Checkpoint [annot]
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+[annot] Epoch 60.0000 dev Loss: 0.175 (ref_len=556) (time=0-00:01:12)
+[annot]              dev auxiliary BLEU4: 0.0, 0.093525/0.000000/0.000000/0.000000 (BP = 0.723438, ratio=0.76, hyp_len=139, ref_len=184)
+             checkpoint took 0-00:00:00
+  best dev score, writing out model
+reverting learned weights to best checkpoint..
+> Performing final evaluation
+Performing inference on /users/yfrempon/EnPy-old/conala-corpus/attack-test.tmspm4000.intent
+/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+<script> alert("What''s up"); </script>
+{'signal.SIGUSR1': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what is up"); </script>
+{'4a4b4c': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what is up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("hello world"); </script>
+{'myList': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("hello world"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up?"); </script>
+{'Python': 'var0', ':': 'var1', 'Very Good': 'var2', '20': 'var3'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What is up?"); </script>
+{'kwargs': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What is up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what's up"); </script>
+{'kwargs': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what's up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up"); </script>
+{'ps -ef | grep something | wc -l': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up?"); </script>
+{"['a', 'b', 'c']": 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what is up"); </script>
+{'s1': 'var0', 's2': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what is up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What is up?"); </script>
+{'client': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What is up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What is up?"); </script>
+{'when': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What is up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what is up"); </script>
+{'inputString': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what is up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What is up?"); </script>
+{' a \\n b \\r\\n c ': 'var0', '\\n': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What is up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up?"); </script>
+{'b': 'var0', ':': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("<unk><unk>llo <unk>orld"); </script>
+{'Entry': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("<unk><unk>llo <unk>orld"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what's up"); </script>
+{}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what's up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What's up"); </script>
+{'always': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What's up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up?"); </script>
+{'l': 'var0', ' ': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what is up"); </script>
+{'hello.py': 'var0', 'htmlfilename.htm': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what is up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what is up"); </script>
+{'my_string': 'var0', 'my_float': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what is up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What is up?"); </script>
+{'123,456.908': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What is up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("hello world"); </script>
+{}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("hello world"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("<unk><unk>llo <unk>orld"); </script>
+{'Words, words, words.': 'var0', '(\\\\W+)': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("<unk><unk>llo <unk>orld"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("what is up"); </script>
+{'Output.txt': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("what is up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up"); </script>
+{'http://www.example.com/songs/mp3.mp3': 'var0', 'mp3.mp3': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up?"); </script>
+{'url': 'var0', 'file_name': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What is up?"); </script>
+{'http://www.example.com/': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What is up?"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("hello world"); </script>
+{'url': 'var0'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("hello world"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("he<unk>"); </script>
+{'url': 'var0', '10MB': 'var1'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("he<unk>"); </script>
+    ^
+SyntaxError: invalid syntax
+<script> alert("What''s up"); </script>
+{'--version': 'var0', '%(prog)s 2.0': 'var1', 'parser': 'var2'}
+Traceback (most recent call last):
+  File "/users/yfrempon/EnPy-old/conala-baseline/preproc/OurCanonical.py", line 120, in decanonicalize_code
+    py_ast = ast.parse(code)
+  File "/apps/pkg/anaconda3/5.0.1/rhel7_u5/cuda/lib/python3.6/ast.py", line 35, in parse
+    return compile(source, filename, mode, PyCF_ONLY_AST)
+  File "<unknown>", line 1
+    <script> alert("What''s up"); </script>
+    ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "conala-baseline/eval/conala_eval.py", line 141, in <module>
+    main()
+  File "conala-baseline/eval/conala_eval.py", line 59, in main
+    raise ValueError('Length of hypothesis and reference don\'t match: {} != {}'.format(len(c_hyp), len(c_ref)))
+ValueError: Length of hypothesis and reference don't match: 32 != 500
+Monday 08 2020 01:57:47 PM
+Date: Monday 08 2020 01:57:47 PM
+Done!

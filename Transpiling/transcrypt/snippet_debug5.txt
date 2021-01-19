@@ -1,0 +1,20 @@
+res = [(not x & 1) for x in t_f_list]\nprint(res)
+process = subprocess.Popen(command, stdin=subprocess.PIPE, stdout=\n    subprocess.PIPE, stderr=subprocess.PIPE, cwd=self.cwd,\n    universal_newlines=True, shell=True)\noutput = process.communicate()\nstdout = output[0]\nstderr = output[1]\nprint(stdout)
+import cv2\nimport numpy as np\nimage = cv2.imread(\\'testimage.bmp\\')
+with open(\\'secrets.yml\\') as f:\n    content = f.read()\nsecret = yaml.load(content)
+buffer = cStringIO.StringIO()\ncodecinfo = codecs.lookup(\\'utf8\\')\nwrapper = codecs.StreamReaderWriter(buffer, codecinfo.streamreader,\n    codecinfo.streamwriter)
+def chain(*iterables):\n    for it in iterables:\n        pass
+word = word.decode(\\'UTF-8\\')\nword\nprint(word)
+class Artist(Base):\n\n    def add_reviews(self, review_ids):\n        sess = object_session(self)
+self.pid = os.fork()\nif self.pid == 0:\n    if \\'random\\' in sys.modules:\n        import random\nrandom.seed()\ncode = process_obj._bootstrap()\nsys.stdout.flush()\nsys.stderr.flush()\nos._exit(code)
+class ProductQuantity(models.Model):\n    pass
+w = gtk.gdk.get_default_root_window()\nsz = w.get_size()\nprint(\\'The size of the window is %d x %d\\' % sz)\npb = gtk.gdk.Pixbuf(gtk.gdk.COLORSPACE_RGB, False, 8, sz[0], sz[1])\npb = pb.get_from_drawable(w, w.get_colormap(), 0, 0, 0, 0, sz[0], sz[1])
+s = \\'a\\'\ns += \\'b\\'
+import urllib.request, urllib.error, urllib.parse\nfrom openpyxl import load_workbook\nimport io\ndata = urllib.request.urlopen(\n    \\'https://content.potatocompany.com/workspaces/PotatoTeam/Shared Documents/XYZ errors/XYZ Errors_Confirm.xlsx\\'\n    )\nxlsx = data.read()\nwb = load_workbook(io.StringIO(xlsx))
+\\"\\"\\"Error: Can\\'t find the file \\'settings_local.py\\' in the directory containing %r. It appears you\\'ve customized things.\nYou\\'ll have to run django-admin.py, passing it your settings module.\n\\"\\"\\"
+do
+platform = sys.platform
+exp = pp.Forward()
+import suds
+with session.begin():\n    pk = 123\nbike = session.query(Bike).filter_by(bike_id=pk).first()\nif not bike:\n    new_bike = Bike(pk, \\'shiny\\', \\'bike\\')\nsession.add(new_bike)
+from keras import backend as K

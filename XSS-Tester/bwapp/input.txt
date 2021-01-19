@@ -1,0 +1,12 @@
+hi
+<script>alert(1)</script>
+sam
+<script>alert(2)</script>
+<img src=x onerror=alert('Skyfall')>
+Paul
+Sammy
+IDK
+alert(1)
+hi
+prompt(5)
+bye

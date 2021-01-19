@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bb2416f-4452-4286-8b67-6d50aaf6e977" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1coKVYjuuVbOp3k4qhlfZTUUTof" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/webgoat" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yfrempon\PycharmProjects\XSS-Tester" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb2416f-4452-4286-8b67-6d50aaf6e977" name="Default Changelist" comment="" />
+      <created>1591189529692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591189529692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591719921710">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="442" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728/-1360.0.1360.728@0.0.1360.728" timestamp="1591719921710" />
+    <state x="-950" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591719523634">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-950" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1591719523634" />
+    <state x="649" y="170" key="FileChooserDialogImpl" timestamp="1600202315319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728/-1360.0.1360.728@0.0.1360.728" timestamp="1592703977055" />
+    <state x="649" y="170" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600202315319" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592703957150">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="-985" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1591914930099" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1360.0.1360.728@0.0.1360.728" timestamp="1592703957150" />
+  </component>
+</project>

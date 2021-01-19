@@ -1,0 +1,20 @@
+Return true or false in a list comprehension python
+Get output colored text with Popen
+Finding a subimage inside a Numpy image
+Authentication only via config file?
+Python: How to get StringIO.writelines to accept unicode string?
+generators that defer to sub-generators
+decoding and encoding Hebrew string in Python
+SQLAlchemy: add a relationship using id instead of object?
+Appending a process to a list (but doing nothing with it) alters program behaviour
+Inline editing of ManyToMany relation in Django
+Is it technically possible to take a screenshot of a website programmatically?
+Explicit line joining in Python
+Read xlsx stored on sharepoint location with openpyxl in python?
+django manage.py settings default
+how to control the import paths in Python?
+Using python to write text files with DOS line endings on linux
+How to parse JSON-XML hybrid file in Python
+Suds ignoring proxy setting
+Dealing with duplicate primary keys on insert in SQLAlchemy (declarative style)
+weighted average of tensor

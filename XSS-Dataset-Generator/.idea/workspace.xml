@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7807fe3f-0a77-4f59-8afe-5aad0dd6e39c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXYHt8OZ7YfeeTwmjuUu9997qZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7807fe3f-0a77-4f59-8afe-5aad0dd6e39c" name="Default Changelist" comment="" />
+      <created>1586883320659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586883320659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-933" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588388924144">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-933" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1588388924144" />
+    <state x="-985" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589000271805">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-985" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1589000271805" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728/-1360.0.1360.728@0.0.1360.728" timestamp="1587586890345" />
+    <state x="-1173" y="11" width="1189" height="531" key="dock-window-1" timestamp="1587534995350">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1173" y="11" width="1189" height="531" key="dock-window-1/0.0.1360.728/-1360.0.1360.728@0.0.1360.728" timestamp="1587534995350" />
+    <state x="-1017" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588482492811">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1017" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1588482492811" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728/-1360.0.1360.728@0.0.1360.728" timestamp="1587519963578" />
+  </component>
+</project>

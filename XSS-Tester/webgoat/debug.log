@@ -1,0 +1,14 @@
+[0915/231445.487:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/231445.489:ERROR:exception_snapshot_win.cc(99)] thread ID 16280 not found in process
+[0915/231445.770:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0915/231445.770:ERROR:exception_snapshot_win.cc(99)] thread ID 16932 not found in process
+[0922/142802.780:ERROR:file_io_win.cc(171)] CreateFile C:\Users\yfrempon\AppData\Local\Temp\scoped_dir7408_8993040\Crashpad\reports\c40370ac-44ab-4002-865d-e6c73adb0ea2.dmp: The system cannot find the path specified. (0x3)
+[0922/142802.781:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0922/154026.153:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/154026.153:ERROR:exception_snapshot_win.cc(99)] thread ID 12984 not found in process
+[0922/154026.275:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/154026.275:ERROR:exception_snapshot_win.cc(99)] thread ID 3980 not found in process
+[0922/160945.308:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/160945.309:ERROR:exception_snapshot_win.cc(99)] thread ID 16552 not found in process
+[0922/160945.324:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0922/160945.324:ERROR:exception_snapshot_win.cc(99)] thread ID 5424 not found in process

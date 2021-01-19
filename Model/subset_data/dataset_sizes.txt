@@ -1,0 +1,7 @@
+Mined data: 593,891
+Training data: 2,379
+Mined data without duplicate intents (unique) : 40,518
+Mined data without duplicates, prob > 10 (unique_prob10) : 32,083
+Mined data without duplicates, prob > 25 (unique_prob25) : 15,420
+Mined data without duplicates, prob > 50 (unique_prob50) : 2,713
+Mined data with duplicates, prob > 50 (all_prob50) : 3,385

@@ -1,0 +1,10 @@
+librosa
+Sphinx
+sphinxcontrib-napoleon
+docopt
+graphviz
+sentencepiece>=0.0.6
+tensorflow
+tensorboardX
+unidecode
+pylru

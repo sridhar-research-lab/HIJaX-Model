@@ -1,0 +1,603 @@
+
+[
+  {
+    "intent": "How can I replace all occurrences of a string?",
+    "rewritten_intent": "Replace all occurences of String 'cat' with String 'dog' using REGEX",
+    "snippet": "anotherString = someString.replace(/cat/g, 'dog');",
+    "question_id": "1144783"
+  },
+  {
+    "intent": "How can I replace all occurrences of a string?",
+    "rewritten_intent": "Replace all occurences of a String 'abc' with ''",
+    "snippet": "str = str.split('abc').join('');",
+    "question_id": "1144783"
+  },
+  {
+    "intent": "How can I replace all occurrences of a string?",
+    "rewritten_intent": "Replace the first occurence of a String 'abc' with ''",
+    "snippet": "str = str.replace('abc', '')",
+    "question_id": "1144783"
+  },
+  {
+    "intent": "How to check whether a string contains a substring in JavaScript?",
+    "rewritten_intent": "Check if the String in variable 'x' contains the String in variable 'y'",
+    "snippet": "var c = x.includes(y)",
+    "question_id": "1789945"
+  },
+  {
+    "intent": "How to check whether a string contains a substring in JavaScript?",
+    "rewritten_intent": "Return the index of the substring 'y' in the String 'x'",
+    "snippet": "var c = string.indexOf(substring) !== -1;",
+    "question_id": "1789945"
+  },
+  {
+    "intent": "How to check whether a string contains a substring in JavaScript?",
+    "rewritten_intent": "Check if the String in variable 'string' contains the substring 'Web'",
+    "snippet": "var c = string.search('Web') !== -1",
+    "question_id": "1789945"
+  },
+  {
+    "intent": "How do I remove a property from a JavaScript object?",
+    "rewritten_intent": "Remove the property 'regex' from an object 'myObject'",
+    "snippet": "delete myObject.regex;",
+    "question_id": "208105"
+  },
+  {
+    "intent": "How do I remove a property from a JavaScript object?",
+    "rewritten_intent": "Remove the property 'regex' from an object 'myObject'",
+    "snippet": "delete myObject['regex'];",
+    "question_id": "208105"
+  },
+  {
+    "intent": "How do I remove a property from a JavaScript object?",
+    "rewritten_intent": "Remove the property 'regex' at index 3 in object 'myObject'",
+    "snippet": "myObject.splice(3,1);",
+    "question_id": "208105"
+  },
+  {
+    "intent": "How do I include a JavaScript file in another JavaScript file?",
+    "rewritten_intent": "Import the Node.js module 'mymodule'",
+    "snippet": "const myModule = require('./mymodule');",
+    "question_id": "50087"
+  },
+  {
+    "intent": "For-each over an array in JavaScript",
+    "rewritten_intent": "Loop through all the items in array 'a' and log each entry to the console",
+    "snippet": "a.forEach(function(entry){console.log(entry);});",
+    "question_id": "329446"
+  },
+  {
+    "intent": "For-each over an array in JavaScript",
+    "rewritten_intent": "Loop through all the items in array 'a' and log each entry to the console",
+    "snippet": "for (index = 0; index < a.length; ++index){console.log(a[index]);}",
+    "question_id": "329446"
+  },
+  {
+    "intent": "For-each over an array in JavaScript",
+    "rewritten_intent": "Loop through all the items in array 'a' and log each entry to the console",
+    "snippet": "for (const val of a){console.log(val);}",
+    "question_id": "329446"
+  },
+  {
+    "intent": "How do you get a timestamp in JavaScript?",
+    "rewritten_intent": "Get a timestamp in milliseconds",
+    "snippet": "var x = Date.now();",
+    "question_id": "221294"
+  },
+  {
+    "intent": "How do you get a timestamp in JavaScript?",
+    "rewritten_intent": "Get a timestamp in seconds",
+    "snippet": "var x = Math.floor(Date.now() /1000);",
+    "question_id": "221294"
+  },
+  {
+    "intent": "How do I check if an array includes a value in JavaScript?",
+    "rewritten_intent": "Check if an array includes string 'jane'",
+    "snippet": "['joe', 'jane', 'mary'].includes('jane');",
+    "question_id": "237104"
+  },
+  {
+    "intent": "How do I check if an array includes a value in JavaScript?",
+    "rewritten_intent": "Check if an array 'array' includes integer '3'",
+    "snippet": "array.includes(3);",
+    "question_id": "237104"
+  },
+  {
+    "intent": "What is the !! (not not) operator in JavaScript?",
+    "rewritten_intent": "Convert object 'oOject' to boolean",
+    "snippet": "var c = !!oObject;",
+    "question_id": "784929"
+  },
+  {
+    "intent": "How do I test for an empty JavaScript object?",
+    "rewritten_intent": "Check if the object 'obj' is empty",
+    "snippet": "Object.keys(obj).length === 0 && obj.constructor === Object",
+    "question_id": "679915"
+  },
+  {
+    "intent": "Checking if a key exists in a JavaScript object?",
+    "rewritten_intent": "Check if the key 'key' exists in the object 'obj'",
+    "snippet": "'key' in obj",
+    "question_id": "1098040"
+  },
+  {
+    "intent": "How do I loop through or enumerate a JavaScript object?",
+    "rewritten_intent": "print key-value pairs of an object 'p'",
+    "snippet": "for (var key in p){ if (p.hasOwnProperty(key)){ console.log(key + ' ' + p[key]);}}",
+    "question_id": "684672"
+  },
+  {
+    "intent": "Length of a JavaScript object",
+    "rewritten_intent": "get length of an object 'obj'",
+    "snippet": "var size = Object.keys(obj).length",
+    "question_id": "5223"
+  },
+  {
+    "intent": "Length of a JavaScript object",
+    "rewritten_intent": "get length of an object 'obj'",
+    "snippet": "Object.keys(obj).length",
+    "question_id": "5223"
+  },
+  {
+    "intent": "How to insert an item into an array at a specific index (JavaScript)?",
+    "rewritten_intent": "insert the string 'Lene' into the array 'arr' at index 2",
+    "snippet": "arr.splice(2,0,'Lene');",
+    "question_id": "18082"
+  },
+  {
+    "intent": "How can I merge properties of two JavaScript objects dynamically?",
+    "rewritten_intent": "merge object 'obj1' with object 'obj2'",
+    "snippet": "Object.assign(obj1, obj2)",
+    "question_id": "171251"
+  },
+  {
+    "intent": "What is the JavaScript version of sleep()?",
+    "rewritten_intent": "wait 'y' milliseconds to call function 'x'",
+    "snippet": "setTimeout(x, y);",
+    "question_id": "951021"
+  },
+  {
+    "intent": "How to append something to an array?",
+    "rewritten_intent": "append string 'Hola' to array 'arr'",
+    "snippet": "arr.push('Hola');",
+    "question_id": "351409"
+  },
+  {
+    "intent": "How to append something to an array?",
+    "rewritten_intent": "append string 'Salut' and string 'Hey' to array 'arr'",
+    "snippet": "arr.push('Salut','Hey');",
+    "question_id": "351409"
+  },
+  {
+    "intent": "How to append something to an array?",
+    "rewritten_intent": "append array 'ar2' to array 'ar1'",
+    "snippet": "ar1.concat(ar2)",
+    "question_id": "351409"
+  },
+  {
+    "intent": "How to check if an object is an array?",
+    "rewritten_intent": "check if object 'obj' is an array",
+    "snippet": "Array.isArray(obj)",
+    "question_id": "4775722"
+  },
+  {
+    "intent": "How to loop through a plain JavaScript object with the objects as members?",
+    "rewritten_intent": "loop through the objects contained in object 'obj'",
+    "snippet": "Object.keys(obj).forEach(function(key){});",
+    "question_id": "921789"
+  },
+  {
+    "intent": "How to efficiently count the number of keys/properties of an object in JavaScript?",
+    "rewritten_intent": "count the number of keys in an object 'obj'",
+    "snippet": "Object.keys(obj).length",
+    "question_id": "126100"
+  },
+  {
+    "intent": "How to efficiently count the number of keys/properties of an object in JavaScript?",
+    "rewritten_intent": "count the number of keys in an object 'obj'",
+    "snippet": "for (var k in obj){ if(obj.hasOwnProperty(k)) ++count; }",
+    "question_id": "126100"
+  },
+  {
+    "intent": "How to convert decimal to hexadecimal in JavaScript",
+    "rewritten_intent": "convert decimal 'yourNumber' to a hexadecimal string",
+    "snippet": "hexString = yourNumber.toString(16);",
+    "question_id": "57803"
+  },
+  {
+    "intent": "How to convert decimal to hexadecimal in JavaScript",
+    "rewritten_intent": "convert a hexadecimal string 'hexString' to an integer",
+    "snippet": "yourNumber = parseInt(hexString, 16);",
+    "question_id": "57803"
+  },
+  {
+    "intent": "How to get the value from the GET parameters?",
+    "rewritten_intent": "get the parameter 'c' from url 'url",
+    "snippet": "url.searchParams.get('c')",
+    "question_id": "979975"
+  },
+  {
+    "intent": "How to measure time taken by a function to execute",
+    "rewritten_intent": "measure the time taken for the function 'doSomething()' to execute as 'result'",
+    "snippet": "var t0 = performance.now(); doSomething(); var t1 = performance.now(); var result = t1 - t0;",
+    "question_id": "313893"
+  },
+  {
+    "intent": "How to do case insensitive string comparison?",
+    "rewritten_intent": "case insensitive compare string 'string1' to string 'string2'",
+    "snippet": "string1.toUpperCase() === string2.toUpperCase()",
+    "question_id": "2140627"
+  },
+  {
+    "intent": "How to replace innerHTML of a div using jQuery?",
+    "rewritten_intent": "replace the innerHTML of div 'regTitle' with string 'Hello World'",
+    "snippet": "$('#regTitle').html('Hello World');",
+    "question_id": "1309452"
+  },
+  {
+    "intent": "How to replace innerHTML of a div using jQuery?",
+    "rewritten_intent": "replace the innerHTML of div 'regTitle' with string 'Hello World'",
+    "snippet": "$('#regTitle').empty().append('Hello World');",
+    "question_id": "1309452"
+  },
+  {
+    "intent": "How to parse JSON using Node.js?",
+    "rewritten_intent": "parse string 'str' into JSON",
+    "snippet": "JSON.parse(str)",
+    "question_id": "5726729"
+  },
+  {
+    "intent": "How to check a radio button with jQuery?",
+    "rewritten_intent": "check if radiobutton 'radio_1' is checked",
+    "snippet": "$('#radio_1').prop('checked', true);",
+    "question_id": "5665915"
+  },
+  {
+    "intent": "How to list the properties of a JavaScript object?",
+    "rewritten_intent": "list the properties of the object 'myObject'",
+    "snippet": "Object.keys(myObject)",
+    "question_id": "208016"
+  },
+  {
+    "intent": "How to sort an array of integers correctly",
+    "rewritten_intent": "sort the integer array 'numArray' ",
+    "snippet": "numArray.sort((a, b) => a - b)",
+    "question_id": "1063007"
+},
+{
+  "intent": "How to find the sum of an array of numbers",
+  "rewritten_intent": "find the sum of array 'arr' within initial value 0",
+  "snippet": "arr.reduce((a,b) => a + b, 0)",
+  "question_id": "1230233"
+},
+{
+  "intent": "How to make JavaScript execute after page load?",
+  "rewritten_intent": "execute javascript after the page loads",
+  "snippet": "window.onload = ...",
+  "question_id": "807878"
+},
+{
+  "intent": "How to convert a comma separated string to an array?",
+  "rewritten_intent": "convert comma ',' separated items in string 'string' to an array",
+  "snippet": "string.split(',')",
+  "question_id": "2858121"
+},
+{
+  "intent": "How to check if object property exists with a variable holding the property name?",
+  "rewritten_intent": "check if an object property 'myProp' exists in an object 'myObj'",
+  "snippet": "myObj.hasOwnProperty(myProp)",
+  "question_id": "11040472"
+},
+{
+  "intent": "How to check if object property exists with a variable holding the property name?",
+  "rewritten_intent": "check if an object property 'myProp' exists in an object 'myObj'",
+  "snippet": "'myProp' in myObj",
+  "question_id": "11040472"
+},
+{
+  "intent": "How to determine if Javascript array contains an object with an attribute that equals a given value?",
+  "rewritten_intent": "check if any array of objects 'vendors' contains the key value 'Magenic'",
+  "snippet": "vendors.filter(function(vendor){ return vendor.Name === 'Magenic' })",
+  "question_id": "8217419"
+},
+{
+  "intent": "How to determine if Javascript array contains an object with an attribute that equals a given value?",
+  "rewritten_intent": "check if any array of objects 'vendors' contains the key value 'Magenic'",
+  "snippet": "vendors.filter(vendor => vendor.Name === 'Magenic')",
+  "question_id": "8217419"
+},
+{
+  "intent": "How to deal with floating point number precision in JavaScript?",
+  "rewritten_intent": "round floating point 'number' to 15 significant digits",
+  "snippet": "parseFloat(number).toPrecision(15)",
+  "question_id": "1458633"
+},
+{
+  "intent": "How to access the first property of an object in Javascript?",
+  "rewritten_intent": "access the first property of an object 'obj'",
+  "snippet": "obj[Object.keys(obj)[0]]",
+  "question_id": "983267"
+},
+{
+  "intent": "How to access the first property of an object in Javascript?",
+  "rewritten_intent": "access the first property of an object 'example'",
+  "snippet": "Object.values(example)[0]",
+  "question_id": "983267"
+},
+{
+  "intent": "How to count string occurrence in string?",
+  "rewritten_intent": "count string 'is' occurences in a string 'temp' with REGEX",
+  "snippet": "(temp.match(/is/g) || []).length",
+  "question_id": "4009756"
+},
+{
+  "intent": "How to get first character of string?",
+  "rewritten_intent": "get the first character of string 'x'",
+  "snippet": "x.charAt(0)",
+  "question_id": "3427132"
+},
+{
+  "intent": "How to get first character of string?",
+  "rewritten_intent": "get the first character of string 'x'",
+  "snippet": "x.substring(0, 1)",
+  "question_id": "3427132"
+},
+{
+  "intent": "How to do associative array/hashing in JavaScript",
+  "rewritten_intent": "create an associative array with key 'x' and value '3'",
+  "snippet": "var point = { x:3 }",
+  "question_id": "1208222"
+},
+{
+  "intent": "How to remove text from a string?",
+  "rewritten_intent": "delete substring 'data-' from string 'data-123'",
+  "snippet": "'data-123'.replace('data', '')",
+  "question_id": "10398931"
+},
+{
+  "intent": "How to remove text from a string?",
+  "rewritten_intent": "delete all substrings 'data-' from string 'data-123' with REGEX",
+  "snippet": "'data-123'.replace(/data-/g, '')",
+  "question_id": "10398931"
+},
+{
+  "intent": "How to remove spaces from a string using JavaScript?",
+  "rewritten_intent": "remove all spaces from string 'str'",
+  "snippet": "str.replace(/\s+/g, '')",
+  "question_id": "5963182"
+},
+{
+  "intent": "How to trigger event in JavaScript?",
+  "rewritten_intent": "emit event 'event'",
+  "snippet": "document.dispatchEvent(event);",
+  "question_id": "2490825"
+},
+{
+  "intent": "How to check if function exists in JavaScript?",
+  "rewritten_intent": "check if function 'onChange' exists in object 'me'",
+  "snippet": "if (typeof me.onChange === 'function'){...}",
+  "question_id": "1042138"
+},
+{
+  "intent": "How to check for an undefined or null variable in JavaScript?",
+  "rewritten_intent": "check if a variable 'obj' is undefined",
+  "snippet": "if (obj.undefProp){...}",
+  "question_id": "2559318"
+},
+{
+  "intent": "How to get all properties values of a JavaScript Object (without knowing the keys)?",
+  "rewritten_intent": "get all property values of object 'objects'",
+  "snippet": "for (var key in objects){ var value = objects[key]; }",
+  "question_id": "7306669"
+},
+{
+  "intent": "How to replace all dots in a string using JavaScript",
+  "rewritten_intent": "replace all string '.' in string 'mystring' with REGEX",
+  "snippet": "mystring.replace(/\./g, '')",
+  "question_id": "2390789"
+},
+{
+  "intent": "How to replace all dots in a string using JavaScript",
+  "rewritten_intent": "replace all string '.' in string 'mystring' with REGEX",
+  "snippet": "mystring.split('.').join(' ')",
+  "question_id": "2390789"
+},
+{
+  "intent": "How to remove all line breaks from a string",
+  "rewritten_intent": "remove all linebreaks from string 'sometext' with REGEX",
+  "snippet": "sometext.replace('/\r?\n|\r/g')",
+  "question_id": "10805125"
+},
+{
+  "intent": "How to parse float with two decimal places in javascript?",
+  "rewritten_intent": "parse float 'yourString' to two decimal places",
+  "snippet": "parseFloat(yourString).toFixed(2)",
+  "question_id": "4435170"
+},
+{
+  "intent": "How to append data to div using JavaScript?",
+  "rewritten_intent": "append string 'Extra stuff' to html element 'divID'",
+  "snippet": "document.getElementById('divID').innerHTML += 'Extra stuff'",
+  "question_id": "5677799"
+},
+{
+  "intent": "How to append data to div using JavaScript?",
+  "rewritten_intent": "append string 'Extra stuff' to html element 'divID'",
+  "snippet": "document.getElementById('divID').appendChild(document.createTextNode('Extra Stuff'))",
+  "question_id": "5677799"
+},
+{
+  "intent": "How to iterate over a JavaScript object?",
+  "rewritten_intent": "iterate over object 'yourobject'",
+  "snippet": "for (let key in yourobject){...}",
+  "question_id": "14379274"
+},
+{
+  "intent": "How to iterate over a JavaScript object?",
+  "rewritten_intent": "get key-value pairs by iterating over object 'yourobject'",
+  "snippet": "for (let [key, value] of Object.entries(yourobject)){...}",
+  "question_id": "14379274"
+},
+{
+  "intent": "How to get a subset of a javascript object's properties",
+  "rewritten_intent": "create a subset of object '{ a: 5, b: 6, c: 7}' containing 'a' and 'c'",
+  "snippet": "(({ a, c }) => ({ a, c }))({ a: 5, b: 6, c: 7});",
+  "question_id": "17781472"
+},
+{
+  "intent": "How to delete a localStorage item when the browser window/tab is closed?",
+  "rewritten_intent": "delete localStorage item 'keyName' when the browser is closed",
+  "snippet": " window.localStorage.removeItem('keyName');",
+  "question_id": "9943220"
+},
+{
+  "intent": "How to extract the hostname portion of a URL in JavaScript",
+  "rewritten_intent": "extract the hostname of a URL",
+  "snippet": "document.location.hostname",
+  "question_id": "1368264"
+},
+{
+  "intent": "How to extract the hostname portion of a URL in JavaScript",
+  "rewritten_intent": "extract the hostname of a URL",
+  "snippet": "window.location.hostname",
+  "question_id": "1368264"
+},
+{
+  "intent": "How to extract the hostname portion of a URL in JavaScript",
+  "rewritten_intent": "extract the host of a URL",
+  "snippet": "document.location.host",
+  "question_id": "1368264"
+},
+{
+  "intent": "How to extract the hostname portion of a URL in JavaScript",
+  "rewritten_intent": "extract the protocol of a URL",
+  "snippet": "document.location.protocol",
+  "question_id": "1368264"
+},
+{
+  "intent": "How to extract the hostname portion of a URL in JavaScript",
+  "rewritten_intent": "extract the port of a URL",
+  "snippet": "document.location.port",
+  "question_id": "1368264"
+},
+{
+  "intent": "How to extract the hostname portion of a URL in JavaScript",
+  "rewritten_intent": "extract the pathname of a URL",
+  "snippet": "document.location.pathname",
+  "question_id": "1368264"
+},
+{
+  "intent": "How to interpolate variables in strings in JavaScript, without concatenation?",
+  "rewritten_intent": "interpolate variable 'foo' into string 'Fifteen is'",
+  "snippet": "`Fiften is ${foo}`",
+  "question_id": "3304014"
+},
+{
+  "intent": "How to interpolate variables in strings in JavaScript, without concatenation?",
+  "rewritten_intent": "interpolate string 'Fifteen' and integer '15' into string 'is'",
+  "snippet": "'%s is %d', 'Fifteen', 15",
+  "question_id": "3304014"
+},
+{
+  "intent": "How to get distinct values from an array of objects in JavaScript?",
+  "rewritten_intent": "get distinct values of type 'age' from an array 'array' of objects",
+  "snippet": "[...new Set(array.map(item => item.age))]",
+  "question_id": "15125920"
+},
+{
+  "intent": "How to check if the URL contains a given string?",
+  "rewritten_intent": "check if URL contains the string 'franky'",
+  "snippet": "if (window.location.href.indexOf('franky') > -1){...}",
+  "question_id": "4597050"
+},
+{
+  "intent": "How to get a key in a JavaScript object by its value?",
+  "rewritten_intent": "get a key by the value ' value' in the object 'object'",
+  "snippet": "Object.keys(object).find(key => object[key] === value)",
+  "question_id": "9907419"
+},
+{
+  "intent": "How to set value of input text using jQuery",
+  "rewritten_intent": "set the value of element class '.textBoxEmployeeNumber' to 'fgg' with jQuery",
+  "snippet": "$('.textBoxEmployeeNumber').val('fgg')",
+  "question_id": "10611170"
+},
+{
+  "intent": "How to get first N number of elements from an array",
+  "rewritten_intent": "get the first 'n' number of elements from array 'array'",
+  "snippet": "array.slice(0, n)",
+  "question_id": "34883068"
+},
+{
+  "intent": "",
+  "rewritten_intent": "set the length of array 'array' to size 'n'",
+  "snippet": "array.length = n",
+  "question_id": ""
+},
+{
+  "intent": "",
+  "rewritten_intent": "empty the array 'array'",
+  "snippet": "array.length = 0",
+  "question_id": ""
+},
+{
+  "intent": "In Javascript, how to conditionally add a member to an object?",
+  "rewritten_intent": "based on condition 'someCondition' add a member 'b' with value '5' to object 'a'",
+  "snippet": "if (someCondition){ a.b = 5}",
+  "question_id": "11704267"
+},
+{
+  "intent": "In Javascript, how to conditionally add a member to an object?",
+  "rewritten_intent": "based on condition 'someCondition' add a member 'b' with value '5' to object 'a'",
+  "snippet": "a = { b: (someCondition ? 5 : undefined) }",
+  "question_id": "11704267"
+},
+{
+  "intent": "How to remove element from an array in JavaScript?",
+  "rewritten_intent": "remove 'numberToRemove' elements from an array 'arr' at index 'indexToRemove' ",
+  "snippet": "arr.splice( indexToRemove, numberToRemove )",
+  "question_id": "2003815"
+},
+{
+  "intent": "How to remove an element from an array in JavaScript?",
+  "rewritten_intent": "remove the first element from an array 'arr' ",
+  "snippet": "arr.shift()",
+  "question_id": "2003815"
+},
+{
+  "intent": "How to create a <style> tag with Javascript?",
+  "rewritten_intent": "create a style tag",
+  "snippet": "document.createElement('style')",
+  "question_id": "524696"
+},
+{
+  "intent": "How to sort strings in JavaScript",
+  "rewritten_intent": "sort string 'item1' and string 'item2' based on field 'attr'",
+  "snippet": "item1.attr.localeCompare(item2.attr)",
+  "question_id": "51165"
+},
+{
+  "intent": "How to get height of entire document with JavaScript?",
+  "rewritten_intent": "get the height of the document",
+  "snippet": "document.body.scrollHeight",
+  "question_id": "1145850"
+},
+{
+  "intent": "How to tell if a string contains a certain character in JavaScript?",
+  "rewritten_intent": "check if string 'FooBar' includes the string 'oo'",
+  "snippet": "'FooBar'.includes('oo')",
+  "question_id": "4444477"
+},
+{
+  "intent": "How to trigger the window resize event in JavaScript?",
+  "rewritten_intent": "trigger a resize event",
+  "snippet": "window.dispatchEvent(new Event('resize'))",
+  "question_id": "1818474"
+},
+{
+  "intent": "How to create dictionary and add key–value pairs dynamically?",
+  "rewritten_intent": "add key-value pairs to array 'dict'",
+  "snippet": "dict.push({ key: 'keyName' , value: 'theValue' })",
+  "question_id": "7196212"
+},
+]
