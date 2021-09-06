@@ -1,0 +1,11 @@
+1. follow Guide setup service account and get key JSON:
+	https://cloud.google.com/docs/authentication/getting-started
+
+2. install BigQuery client:
+	pip install --upgrade google-cloud-bigquery
+
+3. in terminal/command prompt set credentials: 
+	set GOOGLE_APPLICATION_CREDENTIALS=<GOOGLE CLOUD IAM SERVICE ACCOUNT KEY JSON>
+
+4. in the same terminal run:
+	python so_big_query.py
